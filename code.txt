@@ -1,2 +1,2 @@
 This is my text
-Im changing this in another computer, or my friend do change code in the same file with my code
+Im changing this in another computer, or my friend do change code in the same file with my code, i change this line also
